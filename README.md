@@ -2,7 +2,7 @@
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/breakout-game.git
+    git clone https://github.com/Hamodea/Breakout_Game.git
     cd breakout-game
     ```
 
